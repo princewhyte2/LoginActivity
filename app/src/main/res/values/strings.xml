@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="whyte">Whyte</string>
+    <string name="sign_in">Sign in</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="username">USERNAME</string>
+    <string name="login">Login</string>
+    <string name="password">PASSWORD</string>
+    <string name="title">Title</string>
+    <string name="fact">While it might be difficult to imagine, but Java initially was called a much different name.</string>
+    <string name="title1">Kotlin</string>
+    <string name="fact1">In Java you have to write everything in details. Kotlin compiler on the other hand can understand from the code and write a lot of code itself. By one estimate you write at least 20% less code in Kotlin. It drastically reduces the boilerplate code. It is good with type inference.</string>
+
+    <string name="title2">Java</string>
+    <string name="fact2">The original name for Java was Oak. It was eventually changed to Java by Sun\'s marketing department when Sun lawyers found that there was already a computer company registered as Oak. But a legend has it that Gosling and his gang of programmers went out to the local cafe to discuss names and ended up naming it Java.</string>
+
+    <string name="title3">Python</string>
+    <string name="fact3">In December 1989, Python’s creator Guido Van Rossum was looking for a hobby project to keep him occupied in the week around Christmas. He had been thinking of writing a new scripting language that’d be a descendant of ABC and also appeal to Unix/C hackers. He chose to call it Python.</string>
+
+    <string name="title4">Javascript</string>
+    <string name="fact4">Along with HTML an CSS, JavaScript is one of the three main things of the www (World Wide Web). It enables interactive web pages and thus is an essential part of web applications. A majority of websites use it and all major web browsers have a devoted JavaScript engine to execute it.</string>
+
+    <string name="title5">Php</string>
+    <string name="fact5">244M sites were developed using PHP language in the world. So it is the most popular programming language in the field of web development.</string>
+    <string name="programming_logo">programming_logo</string>
+</resources>
